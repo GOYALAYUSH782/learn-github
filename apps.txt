@@ -1,1 +1,1 @@
-add apps name
+add fav_movies
